@@ -1,0 +1,12 @@
+button {
+  background-color: rgba(85, 85, 255, 0.81);
+  width: 206px;
+  height: 75px;
+  color: #ffffff;
+  font-size: 36px;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  border: 3px solid rgba(85, 85, 255);
+}

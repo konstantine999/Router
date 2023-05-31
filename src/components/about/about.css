@@ -1,0 +1,13 @@
+.about-wrapper h1 {
+  font-size: 30px;
+  font-weight: 800;
+  text-align: center;
+}
+.about-wrapper {
+  max-width: 1127px;
+  margin: 0 auto;
+  margin-top: 89px;
+}
+.about-wrapper p {
+  max-width: 1127px;
+}
